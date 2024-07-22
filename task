@@ -5,4 +5,8 @@
 # 3rd work
 # 4th tak
 checking the 5th commit for the log change update in pull and clone option
+<<<<<<< HEAD
  checking the fetch details
+=======
+checking clone log
+>>>>>>> a1af5e41433c15a5cfa5d08da4f923a118047f4e
